@@ -1,4 +1,5 @@
 
+
 ##1.Introduction
 
   > *SELECT * FROM celebs;*
@@ -41,7 +42,7 @@
 
 ##8. Alter
 
-  > *UPDATE celebs SET twitter_handle = '@taylorswift13'  WHERE id = 4; *
+  > *UPDATE celebs SET twitter_handle = '@taylorswift13'  WHERE id = 4;*
   
   > *DELETE FROM celebs WHERE twitter_handle IS NULL;*
  
@@ -49,7 +50,7 @@
   
 ##9. Delete
 
-  >* DELETE FROM celebs WHERE twitter_handle IS NULL;*
+  > *DELETE FROM celebs WHERE twitter_handle IS NULL;*
   
 ##10. Generalizations
   
